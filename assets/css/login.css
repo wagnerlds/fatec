@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding:0;
+    border: 0;
+}
+.full_login {
+    height: 100vh;
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.formulario_login{
+    height:300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.input_login{
+    height: 30px;
+    width: 400px;
+    margin-bottom: 15px;
+}
+.btn_login{
+    height: 30px;
+    width: 408px;
+}
